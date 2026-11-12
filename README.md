@@ -10,14 +10,15 @@ Appointments, bookings and meeting links in one place.
 
 - **Appointments** — Bookings and availability at a glance
 - **Meeting links** — One link for calls with guests
-- **Reminders** — Confirmations and reminders by email
+- **You approve** — Accept, decline or reschedule requests
+- **Appointment details** — Link or address, attendee profile, calendar file
 
 ## How it works
 
-1. Sign in or register for free.
+1. Create a free account with your name and email (18+, email confirmation) — the same account also works in Rabta.
 2. Set when you are available and create meeting links for the kinds of calls you offer.
-3. Share the link: people book a slot and receive a confirmation.
-4. Your upcoming appointments and their meeting rooms are listed in one calendar.
+3. Share your booking link: people choose a slot and send a request; you accept, decline or reschedule it from the calendar or the email.
+4. Every appointment has a detail page with the join link or address, the attendee's profile and a calendar file.
 
 ## Install the app — free, no app store
 
