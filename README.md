@@ -1,10 +1,10 @@
-# Kalender
+# Kairos
 
 Appointments, bookings and meeting links in one place.
 
 **Open and install: https://romal10.github.io/calendar/**
 
-<img src="assets/launcher-iphone.png" alt="Kalender on iPhone" width="240"> <img src="assets/app-phone.png" alt="Kalender app" width="240">
+<img src="assets/launcher-iphone.png" alt="Kairos on iPhone" width="240"> <img src="assets/app-phone.png" alt="Kairos app" width="240">
 
 ## What you can do
 

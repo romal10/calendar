@@ -1,6 +1,6 @@
 {
-  "name": "Kalender",
-  "short_name": "Kalender",
+  "name": "Kairos",
+  "short_name": "Kairos",
   "description": "Appointments, bookings and meeting links in one place.",
   "id": "./",
   "start_url": "./",
@@ -8,7 +8,7 @@
   "display": "standalone",
   "orientation": "any",
   "background_color": "#faf7ef",
-  "theme_color": "#0b5f59",
+  "theme_color": "#1e1b4b",
   "lang": "de",
   "icons": [
     {
